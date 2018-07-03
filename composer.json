@@ -1,0 +1,12 @@
+{
+    "name": "maximiliano/afip_invoice",
+    "authors": [
+        {
+            "name": "Maximiliano Danelutti",
+            "email": "maximilianodanelutti@gmail.com"
+        }
+    ],
+    "require": {
+    	"php": ">=5.6"
+    }
+}
